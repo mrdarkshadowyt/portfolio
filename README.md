@@ -14,7 +14,7 @@ Welcome to my GitHub repository! Here, you'll find my portfolio showcasing my pr
 
 You can view my full portfolio using the link below:
 
-[View Portfolio (HTML)](https://github.com/yourusername/your-repo/raw/main/index.html)
+[View Portfolio (HTML)](https://mrdarkshadowyt.github.io/portfolio/)
 
 ## 📥 Download My Resume
 
